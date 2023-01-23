@@ -1,4 +1,4 @@
-STARTING_WITH_PAYMENTS-API
+_STARTING_WITH_PAYMENTS-API
 
 ###Airwallex###
 # Starting with payments
@@ -31,17 +31,24 @@ You have a website or app where your customers place orders for goods/services a
 -
 * The invoices or the custom order links are sent by emails, text messages, social media chats or delivered offline in physical formats. Usually, your customers will pay by entering their credit card / digital wallet information or sending a bank transfer to a designated bank account.	Wholesaler, Social seller, Professional service provider
 In person	You collect payments by customers entering payment info or scanning QR codes on your digital devices (excl. POS terminals).This happens in person in your physical premise (e.g. fitness center, beauty salon, grocery store etc.) Examples of digital devices:phone, digital pad, or other digital devices where your customers can input their payment information or scan QR codes to pay their orders. Please note that POS terminals are not currently supported by Airwallex.	Physical store seller
-Depending on the operating model(s) , 
+Depending on the operating model(s)
 Airwallex can offer you the following payment products:
 -
-# OPERATING MODEL	PAYMENT PRODUCTS
-Online checkout (web or in-app)	Online Payments , Payment Links , Invoice Integration 
-Invoices or custom order links 
-Payment Links , 
+# OPERATING MODEL	
+-PAYMENT PRODUCTS
+Online checkout (web or in-app)	
+Online Payments 
+-
+Payment Invoices
+Invoice Integration 
+Invoices or custo
+order links 
+Payment Links 
 Invoice Integration 
 In person	Payment Links 
 -
 # Payment methods
+
 Airwallex supports most popular international and local payment methods for global businesses to accept payments from shoppers across the world. Offering more local payment methods can significantly increase your conversion and revenue, as your customers will be more likely to find their favorite method of payment.
 -
 Explore our payment method library to learn more.
