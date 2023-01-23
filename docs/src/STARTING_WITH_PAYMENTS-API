@@ -1,0 +1,54 @@
+_STARTING_WITH_PAYMENTS-API
+
+###Airwallex###
+# Starting with payments
+With Airwallex Payments you can accept credit card payments and other forms of payment from your customers. With the Airwallex suite of payments products, you can not only integrate payments into your website or app, but also create customized payment links and invoices.
+-
+* Airwallex can support you to acquire payments from your customers around the world in a single Airwallex account. With our wide variety of payment methods, your customers will be more likely to find their preferred method of payment, making their checkout experience a breeze. All proceeds will be settled to your Airwallex multi-currency wallet, where you can use them to take advantage of our international transfer and card issuing products or simply withdraw them to your local bank account.
+-
+* To get started, sign up for your Airwallex account. Afterwards you’ll need to activate payments in two steps: Submit your Airwallex account for activation Activate the payments capability of your account
+-
+* You can also reach out to our support team to set up a demo account to help you explore our product and test your integration. Please click [here](https://help.airwallex.com/hc/en-gb/requests/new) to submit a request to our support team. When you submit the request, please select Online payments as your issue category and I want to get started with Online Payments as your sub issue category. Specifying Apply for a demo account as the request subject could help us identify your needs and expedite the process. We will email you when your demo account is prepared.
+-
+# Payment Products
+Airwallex offers a variety of payment products to support different business scenarios. Learn more below to see which fits best to your business:
+-
+# Online Payments
+The Online Payments product enables you to accept payments with cards, e-wallets, and other local payment methods if you are selling goods and services on a website or mobile app. With Online Payments, you can integrate our payment capabilities into your checkout process, creating a seamless experience for your customers. Different integration options can help you to either get started with only a few lines of codes or allow you to fully customize the user experience. Learn more about [Online Payments](https://www.airwallex.com/docs/online-payments__starting-with-payments__online-payments) 
+-
+# Payment Links
+The Payment Links product enables you to accept payments online without a digital storefront. Create a link within a few simple clicks and share the URL or QR code on invoices, social media, emails, or your website. Get paid via cards and 30+ payment methods from anywhere in the world, in any currency. Learn more about [Payment Links](https://www.airwallex.com/docs/online-payments__starting-with-payments__payment-links) 
+-
+# Invoice Integrations
+The Invoice Integrations product enables you to accept payments on invoices created through accounting and invoice software, e.g.Xero and NetSuite. Your customers can pay for the invoices via cards and 30+ payment methods from anywhere in the world, in any currency. Learn more about [Invoice Integrations](https://www.airwallex.com/docs/online-payments__starting-with-payments__invoice-integrations)
+-
+# Supported operating models
+Understanding how your customers pay for their orders (the “operating model”) is an important step to help identify suitable payment products for your business. We will ask about this when you activate the payments capability on your account. If you can’t find any operating model that fits your business, feel free to [contact us](https://help.airwallex.com/hc/en-gb/requests/new) so we can better assist you.
+-
+# OPERATING MODEL	DESCRIPTION	TYPICAL TYPE OF BUSINESS
+Online checkout (web or in-app)	
+You have a website or app where your customers place orders for goods/services and check out online. It could be one-time or recurring purchases by your customers. You own the publicly accessible website or app. It is self built or built with a 3rd party website builder, e.g. Shopify, WooCommerce etc. Note: If your customers check out on a 3rd party marketplace, e.g. Amazon, eBay where payment acceptance is already handled by the marketplace or another party, you can still use Airwallex Global Accounts  to collect the proceeds of your sales.	E-commerce seller, Digital content provider, SaaS provider Invoices or custom order links You send invoices or custom order links with payment information for customers to pay after they place their orders. 
+-
+* The invoices or the custom order links are sent by emails, text messages, social media chats or delivered offline in physical formats. Usually, your customers will pay by entering their credit card / digital wallet information or sending a bank transfer to a designated bank account.	Wholesaler, Social seller, Professional service provider
+In person	You collect payments by customers entering payment info or scanning QR codes on your digital devices (excl. POS terminals).This happens in person in your physical premise (e.g. fitness center, beauty salon, grocery store etc.) Examples of digital devices:phone, digital pad, or other digital devices where your customers can input their payment information or scan QR codes to pay their orders. Please note that POS terminals are not currently supported by Airwallex.	Physical store seller
+Depending on the operating model(s)
+Airwallex can offer you the following payment products:
+-
+# OPERATING MODEL	
+-PAYMENT PRODUCTS
+Online checkout (web or in-app)	
+Online Payments 
+-
+Payment Invoices
+Invoice Integration 
+Invoices or custo
+order links 
+Payment Links 
+Invoice Integration 
+In person	Payment Links 
+-
+# Payment methods
+
+Airwallex supports most popular international and local payment methods for global businesses to accept payments from shoppers across the world. Offering more local payment methods can significantly increase your conversion and revenue, as your customers will be more likely to find their favorite method of payment.
+-
+Explore our payment method library to learn more.
