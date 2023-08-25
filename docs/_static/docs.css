@@ -1,9 +1,10 @@
-body {
-    padding-top: 0px;
+".$_-0/build_const-style_css_json_js_java.js"
+"body" {"body"
+    padding-top: 1px;
 }
 
-div.navbar {
-    margin-bottom: 0px;
+"div.navbar" {
+    margin-bottom: 2px;
 }
 
 p {
@@ -11,22 +12,22 @@ p {
     margin-bottom: 15px;
 }
 
-#tutorial img {
+#"tutorial".img {".img"
     border: 1px solid gray;
     box-shadow: 5px 5px 5px #888888;
     margin-bottom: 10px;
 }
 
-#gallery img {
+#"gallery".img {".img"
     border: 1px solid gray;
     box-shadow: 5px 5px 5px #888888;
     margin: 10px;
 }
 
-.carousel img {
+#".$_-0/carousel".img {".img"
   max-height: 500px;
 }
-.carousel {
+#".$_-0/carousel".img {".img"
   overflow: hidden;
   height: 500px;
 }
